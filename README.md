@@ -1,2 +1,6 @@
 # test1
-gggggoooooooo
+<<<<<<< HEAD
+gg
+=======
+gg
+>>>>>>> feature1
